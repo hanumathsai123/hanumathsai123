@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-💻 B.Tech 3rd-year student at **Vignan University** passionate about building full stack web applications.  
+💻 B.Tech 4rd-year student at **Vignan University** passionate about building full stack web applications.  
 🚀 Currently learning **Flask**, **React**, and **Database Management**.  
 🎯 Goal: To become a full-stack developer and achieve a **30 LPA+ product-based role**.
 
